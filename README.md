@@ -12,10 +12,10 @@ Controller: Handles user input and updates Model/View.
 ## 🖼️ Captures d'écran
 
 
- ![](images/winer.png)
- ![](images/gameover.png)
- ![](images/startmenu.png)
- ![](images/puzzl.png)
+ ![winner](images/winer.png)
+ ![game over](images/gameover.png)
+ ![start menu](images/startmenu.png)
+ ![puzzle](images/puzzl.png)
 
 1. Features : 
 
