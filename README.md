@@ -9,7 +9,13 @@ View: Swing-based GUI (JFrame, JPanel).
 
 Controller: Handles user input and updates Model/View.
 
-![winner](images/winer.png)
+## 🖼️ Captures d'écran
+
+<div align="center">
+  <img src="images/winer.png" alt="Écran de victoire" width="400">
+  <p><em>Message de victoire lorsqu'on résout le puzzle</em></p>
+</div>
+
 
 1. Features : 
 
