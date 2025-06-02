@@ -9,6 +9,8 @@ View: Swing-based GUI (JFrame, JPanel).
 
 Controller: Handles user input and updates Model/View.
 
+<img width="596" alt="start window" src="https://github.com/user-attachments/assets/3e14f95d-8ad5-4765-8efa-bde222b06834" />
+
 
 1. Features : 
 
