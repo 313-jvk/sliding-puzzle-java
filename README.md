@@ -9,6 +9,8 @@ View: Swing-based GUI (JFrame, JPanel).
 
 Controller: Handles user input and updates Model/View.
 
+![winner](/.idea/winer.png)
+
 1. Features : 
 
 a) Move Tracking :
