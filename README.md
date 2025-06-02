@@ -9,7 +9,7 @@ View: Swing-based GUI (JFrame, JPanel).
 
 Controller: Handles user input and updates Model/View.
 
-![winner](/src/main/winer.png)
+![winner](/images/winer.png)
 
 1. Features : 
 
