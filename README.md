@@ -13,6 +13,21 @@ Controller: Handles user input and updates Model/View.
 <img width="596" alt="start window" src="https://github.com/user-attachments/assets/3e14f95d-8ad5-4765-8efa-bde222b06834" />
 </div>
 
+<div align="center">
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 8px">puzzle</h3>
+<img width="587" alt="puzzl" src="https://github.com/user-attachments/assets/f305b45e-c36a-4c30-8caa-5ace55053550" />
+</div>
+
+<div align="center">
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 8px">winner</h3>
+    <img width="301" alt="winer" src="https://github.com/user-attachments/assets/7a4209db-69bc-410a-9bd5-bdce6c5f0bd6" />
+</div>
+
+<div align="center">
+    <h3 style="border-bottom: 2px solid #eee; padding-bottom: 8px">game over</h3>
+    <img width="298" alt="game over" src="https://github.com/user-attachments/assets/d894a22d-be82-43f2-9911-0e15773ff53f" />
+</div>
+
 1. Features : 
 
 a) Move Tracking :
