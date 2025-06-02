@@ -11,11 +11,11 @@ Controller: Handles user input and updates Model/View.
 
 ## 🖼️ Captures d'écran
 
-<div align="center">
-  <img src="images/winer.png" alt="Écran de victoire" width="400">
-  <p><em>Message de victoire lorsqu'on résout le puzzle</em></p>
-</div>
 
+ ![](images/winer.png)
+ ![](images/gameover.png)
+ ![](images/startmenu.png)
+ ![](images/puzzl.png)
 
 1. Features : 
 
